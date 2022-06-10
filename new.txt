@@ -1,1 +1,6 @@
-
+name Y
+surname N
+middleName A
+age 18
+numberOfPets 3
+futureSalary 1000000
