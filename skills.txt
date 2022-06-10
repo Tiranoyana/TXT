@@ -1,0 +1,10 @@
+terminalLinux commands
+theory testing documentation
+postman autotests
+sniffing charles
+devTools google chrome
+mobileTesting android studio
+sql commands
+js autotests
+python creating a client server application
+loadTesting jmeter
